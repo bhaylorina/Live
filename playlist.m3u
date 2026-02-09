@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-02-09 02:50:33 PM IST
+# UPDATED: 2026-02-09 03:00:43 PM IST
 # Total Matches: 2
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11185/image/dark" group-title="ICC T20 World Cup 07:00 PM", South Africa vs Canada (Link 1)
@@ -8,6 +8,10 @@ https://no.link|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-05)/hdntl=exp=1770643595~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2b1123b7-8508-49a2-bff6-e089eec0fbbf~data=hdntl~hmac=8eb3cd9a2250cebf09f0c4685fe6590cf92f7aded0e130cff4f150cacf9dc2d5/manifest.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11185/image/dark" group-title="ICC T20 World Cup 03:00 PM", Zimbabwe vs Oman (PRIME)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cd2266bd1085a92143007be26296daeb:1a21a3cbb8e8062c3a82135a47389c2b
+https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/rhojldthwx/out/v1/83258a3c4a924171ae4f48eb86eed620/cenc.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11185/image/dark" group-title="ICC T20 World Cup 03:00 PM", Zimbabwe vs Oman (WILLOW)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8f388216a3fe3b9d4b7f2662904bf64e:4ffab0f01f4c7bd316c47df29615cfe8
