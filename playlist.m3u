@@ -1,7 +1,15 @@
 #EXTM3U
-# UPDATED: 2026-02-09 06:50:30 PM IST
+# UPDATED: 2026-02-09 07:00:45 PM IST
 # Total Matches: 2
 
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11185/image/dark" group-title="ICC T20 World Cup 07:00 PM", South Africa vs Canada (HINDI)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
+https://livem-d-01-icc-we.akamaized.net/variant/v1/dai-event-prd-pal-west/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-04)/manifest.mpd?iu=/21771797736/icc/web/live&hdnts=st=1770642029~exp=1770642069~acl=/variant/v1/dai-event-prd-pal-west/vcg-01-d/*~id=2b1123b7-8508-49a2-bff6-e089eec0fbbf~hmac=acb3fce0b2e6201562631d8d46cf33fc1d77b4a8ceab9146d59b3dc02f04b10e&hdcore=2.11.3|User-Agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11185/image/dark" group-title="ICC T20 World Cup 07:00 PM", South Africa vs Canada (PRIME )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ed76c18710d621a87c89dedc7c13019f:7241c82fe48525a9dc6be6d7bb86611f
+https://a120live-pv-ta-amazon.akamaized.net/syd-nitro/live/clients/dash/enc/83taeafait/out/v1/8f460e2902ee422e9ee8229e6de25719/cenc.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11185/image/dark" group-title="ICC T20 World Cup 07:00 PM", South Africa vs Canada (WILLOW)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=58c753df9277a2f90655e9d1d0f435e2:f0cf3ea75cdeffb34c8bf6ed299b9841
