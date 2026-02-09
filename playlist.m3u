@@ -1,9 +1,13 @@
 #EXTM3U
-# UPDATED: 2026-02-09 11:10:28 AM IST
+# UPDATED: 2026-02-09 11:20:29 AM IST
 # Total Matches: 3
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11185/image/dark" group-title="ICC T20 World Cup 07:00 PM", South Africa vs Canada (Link 1)
 https://no.link|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11185/image/dark" group-title="ICC T20 World Cup 11:00 AM", Scotland vs Italy (HINDI)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-04)/hdntl=exp=1770642039~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2b1123b7-8508-49a2-bff6-e089eec0fbbf~data=hdntl~hmac=0ce13ebb0830750d13d052300d152f397877b3f2ae22c6c9a97959040d21d72e/manifest.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11185/image/dark" group-title="ICC T20 World Cup 11:00 AM", Scotland vs Italy (PRIME)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d0df0607d2c9f7f175a1b68b2dd74af9:3b9bceeb5dd81d6e906217d27f831cee
