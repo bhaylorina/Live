@@ -1,7 +1,15 @@
 #EXTM3U
-# UPDATED: 2026-02-10 12:20:30 PM IST
+# UPDATED: 2026-02-10 12:30:54 PM IST
 # Total Matches: 6
 
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11185/image/dark" group-title="ICC T20 World Cup 11:00 AM", Netherlands vs Namibia (ICC HINDI)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=79584ff8854536a3829f177423cdf684:e6c7e6a131dea887edf696d50cd24ba9
+https://livem-d-01-icc-we.akamaized.net/variant/v1/dai-event-prd-pal-west/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-04)/manifest.mpd?vcfilter=3f03b902-5fa4-40f7-95c2-0c162501b9f8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11185/image/dark" group-title="ICC T20 World Cup 11:00 AM", Netherlands vs Namibia (ICC ENGLISH)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=79584ff8854536a3829f177423cdf684:e6c7e6a131dea887edf696d50cd24ba9
+https://livem-d-02-icc-ne.akamaized.net/variant/v1/dai-event-prd-pal-west/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?vcfilter=073da234-0e75-4909-87eb-11df56b9c4c4|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11185/image/dark" group-title="ICC T20 World Cup 11:00 AM", Netherlands vs Namibia (PRIME )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=75902b6304efb1d6323c833d42347d68:70c40016a0bba8ddc3aabcee112970c8
