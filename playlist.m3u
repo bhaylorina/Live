@@ -1,9 +1,15 @@
 #EXTM3U
-# UPDATED: 2026-02-10 10:40:32 AM IST
+# UPDATED: 2026-02-10 10:50:31 AM IST
 # Total Matches: 6
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11185/image/dark" group-title="ICC T20 World Cup 11:00 AM", Netherlands vs Namibia (Link 1)
-https://no.link|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11185/image/dark" group-title="ICC T20 World Cup 11:00 AM", Netherlands vs Namibia (PRIME )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=75902b6304efb1d6323c833d42347d68:70c40016a0bba8ddc3aabcee112970c8
+https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/dn7vupw4sj/out/v1/d7130f460d41486ea7e8e3eb45f0522f/cenc.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11185/image/dark" group-title="ICC T20 World Cup 11:00 AM", Netherlands vs Namibia (WILLOW ADFREE)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=07890d2c87612e00d42ebf0d372259bf:e0676df8c11c22d9a61884b1e36e31ff
+https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash/enc/oosppfenvb/out/v1/8bf46b5b7713433d811a46a237f5ca82/cenc.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11185/image/dark" group-title="ICC T20 World Cup 03:00 PM", New Zealand vs United Arab Emirates (Link 1)
 https://no.link|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11185/image/dark" group-title="ICC T20 World Cup 07:00 PM", Pakistan vs USA (Link 1)
