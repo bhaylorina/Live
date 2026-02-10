@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-02-10 09:23:12 PM IST
+# UPDATED: 2026-02-10 09:30:59 PM IST
 # Total Matches: 4
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11185/image/dark" group-title="ICC T20 World Cup 07:00 PM", Pakistan vs USA (PRIME)
@@ -23,7 +23,7 @@ https://livem-d-02-icc-ne.akamaized.net/variant/v1/dai-event-prd-pal-west/vcg-01
 #KODIPROP:inputstream.adaptive.license_key=b93218d56c05c31e69ac8c0739fec536:92f8a2e0bf659b2300bd4980ad6f5c6a
 https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/cp8rub3itk/out/v1/ff321eb402c84c49b9bb15846afb583e/cenc.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11222/image/dark" group-title="Twenty20 International Women 09:30 PM", South Africa Women vs Pakistan Women (Link 1)
-https://no.link|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://38.190.178.54:8089/crc8/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11185/image/dark" group-title="ICC T20 World Cup 11:00 AM", South Africa vs Afghanistan (Link 1)
 https://no.link|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11185/image/dark" group-title="ICC T20 World Cup 03:00 PM", Australia vs Ireland (Link 1)
