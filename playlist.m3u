@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-02-11 06:50:33 PM IST
+# UPDATED: 2026-02-11 07:00:46 PM IST
 # Total Matches: 4
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11185/image/dark" group-title="ICC T20 World Cup 03:00 PM", Australia vs Ireland (PRIME)
@@ -22,19 +22,17 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ehrpudmjpv/
 https://no.link|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11185/image/dark" group-title="ICC T20 World Cup 11:00 AM", Sri Lanka vs Oman (Link 1)
 https://no.link|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11185/image/dark" group-title="ICC T20 World Cup 07:00 PM", England vs West Indies (ICC HINDI)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=79584ff8854536a3829f177423cdf684:e6c7e6a131dea887edf696d50cd24ba9
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-04)/hdntl=exp=1770843002~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~data=hdntl~hmac=b84fd5400b4bc4d275e82d9555c6ca646e414914147534b4949b5d5ad6cf5ebc/manifest.mpd?vcfilter=cc21d012-74f0-4254-9e49-8f2fad24ad0e&|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11185/image/dark" group-title="ICC T20 World Cup 07:00 PM", England vs West Indies (ICC ENGLISH )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=79584ff8854536a3829f177423cdf684:e6c7e6a131dea887edf696d50cd24ba9
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/hdntl=exp=1770842612~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=a704e901-ee0e-495b-ae95-0c1abc6fe2a7~data=hdntl~hmac=9c5e987ca74a7d275cf53defce34279f639cd6d6b5040e0c5770ecd38fbf5f79/manifest.mpd?vcfilter=c4933828-3e5f-40cf-8d2b-fb723b52ac9c|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11185/image/dark" group-title="ICC T20 World Cup 07:00 PM", England vs West Indies (WILLOW ADFREE)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0aec2fcbea8d842e2d6196fc12fc5208:ea343750354836dcab261575956326a3
-https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash/enc/cqqpbb9tmi/out/v1/62a1d9fa14bb4acfad5085e413df06c0/cenc.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11185/image/dark" group-title="ICC T20 World Cup 07:00 PM", England vs West Indies (PRIME)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e2135bf415cfea9ea3e6b26a6fce8fc3:2671da359a0a860668baca2e34f243f6
 https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/ldbdk8wq9y/out/v1/d25c047441ed467595c8085109e0d73f/cenc.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11185/image/dark" group-title="ICC T20 World Cup 07:00 PM", England vs West Indies (ICC HINDI)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=79584ff8854536a3829f177423cdf684:e6c7e6a131dea887edf696d50cd24ba9
+https://livem-d-02-icc-ne.akamaized.net/variant/v1/dai-event-prd-pal-west/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-04)/manifest.mpd?vcfilter=cc21d012-74f0-4254-9e49-8f2fad24ad0e|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11185/image/dark" group-title="ICC T20 World Cup 07:00 PM", England vs West Indies (WILLOW)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0aec2fcbea8d842e2d6196fc12fc5208:ea343750354836dcab261575956326a3
+https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash/enc/cqqpbb9tmi/out/v1/62a1d9fa14bb4acfad5085e413df06c0/cenc.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11185/image/dark" group-title="ICC T20 World Cup 07:00 PM", England vs West Indies (WILLOW LQ)
+http://b.rtzsa.cfd/hls/FFFF.m3u8|referer=http://www.fawanews.sc/
