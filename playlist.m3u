@@ -1,8 +1,10 @@
 #EXTM3U
-# UPDATED: 2026-02-13 10:20:26 AM IST
+# UPDATED: 2026-02-13 10:30:52 AM IST
 # Total Matches: 2
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11185/image/dark" group-title="ICC T20 World Cup 11:00 AM", Australia vs Zimbabwe (Link 1)
-https://no.link|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11185/image/dark" group-title="ICC T20 World Cup 11:00 AM", Australia vs Zimbabwe (PRIME)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=da661ad935054591590c7487368b26f3:10229bfa52d2e601b3e88b7951dc0bae
+https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/dash/enc/gmgcjjmmtb/out/v1/b02b49b7e4244b4ebaf4f2d576a97228/cenc.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11185/image/dark" group-title="ICC T20 World Cup 03:00 PM", Canada vs United Arab Emirates (Link 1)
 https://no.link|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
